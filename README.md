@@ -7,6 +7,7 @@
 ## Software Failures Projesi
 
 * [Github Davet Linki](https://classroom.github.com/a/Mo1xZhA9)
+* [Proje Seçim Google Formu](https://forms.gle/5ADRCaiU3DFqeMcf8)
 
 ### Proje Konuları
 
@@ -84,3 +85,21 @@
 |70                                 |Blue Origin New Shepard rocket - In 2016, Blue Origin's New Shepard rocket experienced a software glitch during a test flight, causing the rocket to abort its launch sequence and return to the ground.                                   |Blue Origin New Shepard Rocket - 2016 yılında, Blue Origin'in yeni Shepard Rocket bir test uçuşu sırasında bir yazılım aksaklığı yaşadı ve roketin fırlatma sırasını iptal etmesine ve yere dönmesine neden oldu.                         |
 
 
+## Proje Açıklamaları
+
+* Bu proje kapsamında seçeceğiniz konuyla ilgili  PDF formatında bir rapor hazırlamanız ve bu raporu ALMS üzerinden göndermeniz gerekmektedir.
+* Raporda seçtiğiniz yazılım başarısızlığının ne olduğundan, bu başarısızlığın gelişim sürecinden ve bu başarısızlığın nedenlerinden ayrıntılı bir şekilde bahsetmeniz gerekmektedir.
+* Raporunuzda Yazılım mühendisliği ile ilgili hangi süreçlerini doğru uygulanmamasının bu başarısızlıkta rolü olabileceği konusunda araştırmalarınız sonucu edindiğiniz bilgilere ve tahminlerinize yer vermelisiniz.
+* Raporunuzda aynı yazılım projesini sizin yönetiyor olması durumunda neleri daha farklı yapabileceğinizi tartışınız.
+* Faydalandığınız kaynaklara raporunuzda referans vermeniz gerekmektedir.
+* Projede ChatGPT gibi yapay zeka araçlarından yardım almanız durumunda bu araçlardan hangi konularda yardım aldığınızı raporunuzda detaylı bir şekilde belirtiniz.
+* Tercihen iki kişilik grup çalışması yapılması istenmektedir. Bir grubun en çok 3 üyesi olabilir.
+* Her grup üyesi hazırladıkları raporu ALMS'ye ayrı ayrı yüklemelidir. Diğer bir deyişle A ve B aynı grubun üyesi ise A ve B'nin ALMS'ye yükledikleri rapor birbirinin aynısı olacaktır.
+* Bu proje için hazırladığınız raporu Github'da bir repo açıp oraya da markdown bir döküman olarak yükleyebilirsiniz. Bu konuda daha detaylı bilgiye https://github.com/gusanmaz/BMB306_Software_Engineering/ üzerinden erişebilirsiniz.
+* Bu proje için bir bir video hazırlayıp bu videoyu Youtube, Vimeo gibi video paylaşım sitelerinden birine yükleyebilirsiniz.
+* Bu proje için Github reposu oluşturmanız ve video çekmeniz zorunlu değildir ama tavsiye edilmektedir.
+* Bu formda grup üyelerinizin bilgilerini ve konu seçimlerinizi belirtmeniz gerekmektedir.
+* Mükerrer veri olmaması adına bu formu her grup adına yalnızca bir grup üyesinin doldurması istenmektedir.
+* Konu seçimi için her gruba 10 tercih hakkı verilecektir. Formun doldurulma zamanı da dikkate alınarak gruplara seçtikleri konulardan biri tercihlerin sıralaması da dikkate alınarak (mümkünse ilk tercih edilen konu, değilse ikinci tercih edilen konu, ..) atanacaktır.
+* Bir grupta hem örgün hem ikinci öğretim öğrencisi bulunamaz.
+* Her konu aynı öğretimden en çok 1 veya 2 veya iki gruba aynı konu verilebilecek şekilde dağıtılmaya çalışılacaktır.
